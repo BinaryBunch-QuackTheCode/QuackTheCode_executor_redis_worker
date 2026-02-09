@@ -1,5 +1,7 @@
 
 libs
+.cache
+build
 
 # Prerequisites
 *.d
