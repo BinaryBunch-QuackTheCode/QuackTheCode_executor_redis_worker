@@ -1,0 +1,3 @@
+[submodule "QuackTheCode_executor"]
+	path = QuackTheCode_executor
+	url = git@github.com:BinaryBunch-QuackTheCode/QuackTheCode_executor.git
